@@ -1,1 +1,7 @@
-hello world
+print("hello world")
+print("hello world from tests.py")
+print("hello world from tests.py")
+print("hello world from tests.py")          
+print("hello world from tests.py")  
+print("hello world from tests.py")
+print("hello world from tests.py")
